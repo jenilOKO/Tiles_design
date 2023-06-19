@@ -314,7 +314,7 @@ def progm():
                     'user_data' : hist,
                     'Wflag' : "true"
                     })
-                flag_ref.updateb ({
+                flag_ref.update ({
                     'arm_chair_flag' : True,
                     'coffee_table_flag' : True,
                     'curtains_flag' : True,
